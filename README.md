@@ -11,12 +11,15 @@ Let's start with a bunch of questions.
 
 # Read information from the Ravencoin blockchain
 
+1. Host your own Ravencoin node
+1. Use a service that provides Ravencoin as a service
+
 ### Host your own Ravencoin node (Raven core node)
 
 You run a full Ravencoin node your self.
 
 - Download and install Raven core from ravencoin.org
-- Change settings (raven.conf) [see settings](#configure-raven-core-node)
+- To be able to get the most out of Ravencoin programatically you need to add some indexes [see settings](#configure-raven-core-node)
 
 ## Configure Raven core node
 
@@ -39,11 +42,6 @@ So do not expose your node to the outside world.
 If you want your node to be accessible publicly, check out this project https://github.com/ravenrebels/ravencoin-rpc-proxy
 That is a proxy that fronts your node, removing "unsecure" operations.
 It also adds caching which increases performance.
-
-Download the software from the "official" GitHub
-https://github.com/RavenProject/Ravencoin/releases
-
-It can take a day to fully download sync a the blockchain
 
 ### Use Ravencoin as a Service
 
