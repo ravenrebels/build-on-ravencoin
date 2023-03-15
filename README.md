@@ -5,8 +5,13 @@ Docs - how to build on Ravencoin
 # Read information from the Ravencoin blockchain
 
  
-1 - Host your own Ravencoin node (Raven core node)
-2 - Use a publicly available service such as 
+### Host your own Ravencoin node (Raven core node)
+
+### Use Ravencoin as a Service
+Raven Rebels provide a service that can "kickstart" your development.
+Get going in minutes
+https://rpc.ting.finance
+
 
 ## How to run your own Ravencoin node
 
