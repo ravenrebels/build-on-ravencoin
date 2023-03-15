@@ -4,7 +4,7 @@ Docs - how to build on Ravencoin
 
 Let's start with a bunch of questions.
 - Will your project only read information from the Ravencoin blockchain?
-- Will your project interact with the blockchain? For example transfer assets, mint tokens.
+- Will your project interact with the blockchain? For example transfer assets, mint tokens?
 - Will your project use Ravencoin NFTs for authentication, sign in? 
 - Do you want to host your own node or do you want to go the easy way and use a service?
 
