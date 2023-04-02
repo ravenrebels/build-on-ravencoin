@@ -11,8 +11,15 @@ Let's start with a bunch of questions.
 
 # Read information from the Ravencoin blockchain
 
-1. Host your own Ravencoin node
 1. Use a service that provides Ravencoin as a service
+1. Host your own Ravencoin node
+
+
+### Use Ravencoin as a Service
+
+Raven Rebels provide a service that can "kickstart" your development.
+Get going in minutes
+https://rpc.ting.finance
 
 ### Host your own Ravencoin node (Raven core node)
 
@@ -43,11 +50,7 @@ If you want your node to be accessible publicly, check out this project https://
 That is a proxy that fronts your node, removing "unsecure" operations.
 It also adds caching which increases performance.
 
-### Use Ravencoin as a Service
 
-Raven Rebels provide a service that can "kickstart" your development.
-Get going in minutes
-https://rpc.ting.finance
 
 ## How to run your own Ravencoin node
 
